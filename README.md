@@ -22,12 +22,7 @@ Eu me chamo Daniel e estou iniciando os estudos de Back-End ultilizando as lingu
 
 #### Depois dê uma olhada no meu <a href="https://www.linkedin.com/in/daniel-nery-dns/">LinkedIn</a>:blush:
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danry20&show_icons=true&layout=compact&theme=dark" />
-</a> 
 
-</p>
 
 
 
@@ -39,6 +34,14 @@ Eu me chamo Daniel e estou iniciando os estudos de Back-End ultilizando as lingu
 
 
 <!--
+Grafico de linguas mais usadas:
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danry20&show_icons=true&layout=compact&theme=dark" />
+</a> 
+</p>
+
 ### Hi there 👋
 
 https://github.com/anuraghazra/github-readme-stats
