@@ -24,7 +24,7 @@ Eu me chamo Daniel e estou iniciando os estudos de Back-End ultilizando as lingu
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danry20"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danry20&show_icons=true&layout=compact&theme=dark" />
 </a> 
 
 </p>
